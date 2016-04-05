@@ -1,0 +1,28 @@
+name: Vatren Jurin
+favicon: null
+layout_spectrum: 0.6216784161515534
+typography_spectrum: 0.7987608537077904
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6665384832303971
+  lightness: 0.835410384228453
+  saturation: 0.5074440971948206
+  rhythmicContrast: 0.211315899156034
+purpose: []
